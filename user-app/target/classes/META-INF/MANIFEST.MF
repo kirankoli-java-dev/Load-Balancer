@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: kiran
+Build-Jdk: 17.0.10
+Implementation-Title: user-app
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/user-app
+Created-By: Maven Integration for Eclipse
+
